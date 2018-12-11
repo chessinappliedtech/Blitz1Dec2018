@@ -34,11 +34,10 @@
                     <includePluginDependencies>true</includePluginDependencies>
                     <mainClass>ru.appliedtech.chess.roundrobinsitegenerator.RoundRobinSiteGenerator</mainClass>
                     <arguments>
+                        <argument>data/tournamentDescription.json</argument>
                         <argument>data/players.json</argument>
                         <argument>data/games.json</argument>
                         <argument>.</argument>
-                        <argument>2</argument>
-                        <argument>Блиц 1. Декабрь 2018</argument>
                     </arguments>
                 </configuration>
                 <dependencies>

@@ -1,0 +1,17 @@
+{
+  "tournamentTitle": "Блиц 1. Декабрь 2018",
+  "maxGames": 2,
+  "arbiterId": "ilya.maltsev",
+  "deputyArbiterIds": [
+    "alexey.matveev",
+    "alexey.biryukov",
+    "anatoly.morozov"
+  ],
+  "gameWritersIds": [
+    "alexey.matveev",
+    "alexey.biryukov",
+    "anatoly.morozov",
+    "alexey.shklyar",
+    "ilya.maltsev"
+  ]
+}
