@@ -1,14 +1,3 @@
 ﻿[
-	{
-		"whiteId": "ilya.maltsev",
-		"blackId": "alexey.biryukov",
-		"date": "12-12-2018",
-		"result": "bw"
-	},
-	{
-		"blackId": "ilya.maltsev",
-		"whiteId": "alexey.biryukov",
-		"date": "12-12-2018",
-		"result": "draw"
-	}
+	
 ]
