@@ -1,0 +1,17 @@
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/0SmhL1eu"]
+[Date "12.12.2018, 16:36:50"]
+[Round "-"]
+[White "Илья Мальцев"]
+[Black "Александр Шкабара"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bc4 Nf6 4. d3 { C55 Italian Game: Two Knights Defense, Modern Bishop's Opening } d5 5. exd5 Nxd5 6. h3 Be6 7. O-O g6 8. Bg5 Nf6 9. Bxe6 fxe6 10. Nc3 Be7 11. Bh6 Nd4 12. Nxe5 Bd6 13. Nf3 e5 14. Re1 Qe7 15. Nxd4 O-O-O 16. Ndb5 Rhe8 17. Nxa7+ Kb8 18. Nab5 Ng8 19. Nxd6 Qxd6 20. Bg5 Rd7 21. Nb5 Qc5 22. a4 e4 23. Qg4 Rd5 24. Be3 Qe7 25. dxe4 Qxe4 26. Qxe4 Rxe4 27. Ba7+ Kc8 28. Rxe4 Nf6 29. Rd4 Re5 30. Rad1 c6 31. Rd8# { White wins by checkmate. } 1-0

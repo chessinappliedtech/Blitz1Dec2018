@@ -1,26 +1,30 @@
 ﻿[
   {
     "whiteId": "ilya.maltsev",
-	"blackId": "alexey.biryukov",
-	"date": "12-12-2018",
-	"result": "ww"
+    "blackId": "alexey.biryukov",
+    "date": "12-12-2018",
+    "result": "ww"
   },
   {
     "whiteId": "alexey.biryukov",
-	"blackId": "ilya.maltsev",
-	"date": "12-12-2018",
-	"result": "bw"
-  },
-  {
-    "whiteId": "alexander.shkabara",
     "blackId": "ilya.maltsev",
     "date": "12-12-2018",
     "result": "bw"
   },
   {
+    "whiteId": "alexander.shkabara",
+    "blackId": "ilya.maltsev",
+    "date": "12-12-2018",
+    "result": "bw",
+    "pgn": "data/alexander.shkabara-ilya.maltsev-1.pgn",
+    "lichessId": "YTEMXugi"
+  },
+  {
     "whiteId": "ilya.maltsev",
     "blackId": "alexander.shkabara",
     "date": "12-12-2018",
-    "result": "ww"
+    "result": "ww",
+    "pgn": "data/ilya.maltsev-alexander.shkabara-2.pgn",
+    "lichessId": "0SmhL1eu"
   }
 ]
