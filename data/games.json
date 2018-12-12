@@ -1,14 +1,26 @@
 ﻿[
-	{
-		"whiteId": "ilya.maltsev",
-		"blackId": "alexey.biryukov",
-		"date": "12-12-2018",
-		"result": "ww"
-	},
-	{
-		"whiteId": "alexey.biryukov",
-		"blackId": "ilya.maltsev",
-		"date": "12-12-2018",
-		"result": "bw"
-	}
+  {
+    "whiteId": "ilya.maltsev",
+	"blackId": "alexey.biryukov",
+	"date": "12-12-2018",
+	"result": "ww"
+  },
+  {
+    "whiteId": "alexey.biryukov",
+	"blackId": "ilya.maltsev",
+	"date": "12-12-2018",
+	"result": "bw"
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "ilya.maltsev",
+    "date": "12-12-2018",
+    "result": "bw"
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "alexander.shkabara",
+    "date": "12-12-2018",
+    "result": "ww"
+  }
 ]
