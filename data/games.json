@@ -26,5 +26,17 @@
     "result": "ww",
     "pgn": "data/ilya.maltsev-alexander.shkabara-2.pgn",
     "lichessId": "0SmhL1eu"
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "alexey.biryukov",
+    "date": "12-13-2018",
+    "result": "bw"
+  },
+  {
+    "whiteId": "alexey.biryukov",
+    "blackId": "alexey.matveev",
+    "date": "12-13-2018",
+    "result": "bw"
   }
 ]
