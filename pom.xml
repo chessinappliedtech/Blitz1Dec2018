@@ -32,7 +32,7 @@
                 <configuration>
                     <includeProjectDependencies>true</includeProjectDependencies>
                     <includePluginDependencies>true</includePluginDependencies>
-                    <mainClass>ru.appliedtech.roundrobinsitegenerator.RoundRobinSiteGenerator</mainClass>
+                    <mainClass>ru.appliedtech.chess.roundrobinsitegenerator.RoundRobinSiteGenerator</mainClass>
                     <arguments>
                         <argument>data/tournamentDescription.json</argument>
                         <argument>data/players.json</argument>
@@ -42,7 +42,7 @@
                 </configuration>
                 <dependencies>
                     <dependency>
-                        <groupId>ru.appliedtech.ru.appliedtech.chess</groupId>
+                        <groupId>ru.appliedtech.chess</groupId>
                         <artifactId>round-robin-site-generator</artifactId>
                         <version>0.1-SNAPSHOT</version>
                         <type>jar</type>
@@ -54,7 +54,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>ru.appliedtech.ru.appliedtech.chess</groupId>
+            <groupId>ru.appliedtech.chess</groupId>
             <artifactId>round-robin-site-generator</artifactId>
             <version>0.1-SNAPSHOT</version>
         </dependency>
