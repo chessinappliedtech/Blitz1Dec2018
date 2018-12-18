@@ -30,13 +30,29 @@
   {
     "whiteId": "alexey.matveev",
     "blackId": "alexey.biryukov",
-    "date": "12-13-2018",
+    "date": "13-12-2018",
     "result": "bw"
   },
   {
     "whiteId": "alexey.biryukov",
     "blackId": "alexey.matveev",
-    "date": "12-13-2018",
+    "date": "13-12-2018",
     "result": "bw"
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "alexey.matveev",
+    "date": "18-12-2018",
+    "result": "bw",
+    "pgn": "data/alexey.shklyar-alexey.matveev-1.pgn"
+    "lichessId": "96b5rrBL",
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "alexey.shklyar",
+    "date": "18-12-2018",
+    "result": "ww",
+    "pgn": "data/alexey.matveev-alexey.shklyar-2.pgn"
+    "lichessId": "9CsUFNJR",
   }
 ]

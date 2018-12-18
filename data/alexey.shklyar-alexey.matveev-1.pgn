@@ -1,0 +1,17 @@
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/96b5rrBL"]
+[Date "12/18/2018, 10:46:22 AM"]
+[Round "-"]
+[White "Алексей Шкляр"]
+[Black "Алексей Матвеев"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. c4 e5 2. Nc3 { A21 English Opening: King's English Variation, Reversed Sicilian } Bc5 3. e3 Nc6 4. Nf3 Nf6 5. b3 O-O 6. Nd5 Re8 7. Nxf6+ Qxf6 8. Be2 e4 9. d4 exf3 10. Bxf3 Bxd4 11. Bxc6 dxc6 12. Qxd4 Qxd4 13. O-O Qxa1 { Black wins. } 0-1
