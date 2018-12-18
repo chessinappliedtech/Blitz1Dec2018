@@ -54,5 +54,17 @@
     "result": "ww",
     "pgn": "data/alexey.matveev-alexey.shklyar-2.pgn",
     "lichessId": "9CsUFNJR"
+  },
+  {
+    "whiteId": "vladimir.kudryakov",
+    "blackId": "ilya.maltsev",
+    "date": "18-12-2018",
+    "result": "bw"
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "vladimir.kudryakov",
+    "date": "18-12-2018",
+    "result": "ww"
   }
 ]
