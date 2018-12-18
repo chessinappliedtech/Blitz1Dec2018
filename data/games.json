@@ -44,15 +44,15 @@
     "blackId": "alexey.matveev",
     "date": "18-12-2018",
     "result": "bw",
-    "pgn": "data/alexey.shklyar-alexey.matveev-1.pgn"
-    "lichessId": "96b5rrBL",
+    "pgn": "data/alexey.shklyar-alexey.matveev-1.pgn",
+    "lichessId": "96b5rrBL"
   },
   {
     "whiteId": "alexey.matveev",
     "blackId": "alexey.shklyar",
     "date": "18-12-2018",
     "result": "ww",
-    "pgn": "data/alexey.matveev-alexey.shklyar-2.pgn"
-    "lichessId": "9CsUFNJR",
+    "pgn": "data/alexey.matveev-alexey.shklyar-2.pgn",
+    "lichessId": "9CsUFNJR"
   }
 ]
