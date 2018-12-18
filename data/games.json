@@ -78,5 +78,19 @@
     "blackId": "vladimir.kudryakov",
     "date": "18-12-2018",
     "result": "ww"
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "anatoly.morozov",
+    "date": "18-12-2018",
+    "pgn": "data/alexey.matveev-anatoly.morozov-1.pgn",
+    "result": "ww"
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexey.matveev",
+    "date": "18-12-2018",
+    "pgn": "data/anatoly.morozov-alexey.matveev-1.pgn",
+    "result": "bw"
   }
 ]
