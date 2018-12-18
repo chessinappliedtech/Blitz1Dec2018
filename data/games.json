@@ -62,5 +62,49 @@
     "outerServiceLinks": {
       "lichess": "9CsUFNJR"
     }
+  },
+  {
+    "whiteId": "vladimir.kudryakov",
+    "blackId": "ilya.maltsev",
+    "date": "18-12-2018",
+    "result": "bw"
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "vladimir.kudryakov",
+    "date": "18-12-2018",
+    "result": "ww"
+  },
+  {
+    "whiteId": "vladimir.kudryakov",
+    "blackId": "alexander.shkabara",
+    "date": "18-12-2018",
+    "result": "bw"
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "vladimir.kudryakov",
+    "date": "18-12-2018",
+    "result": "ww"
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "anatoly.morozov",
+    "date": "18-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/alexey.matveev-anatoly.morozov-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "JvOdT0Uh"
+    }
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexey.matveev",
+    "date": "18-12-2018",
+    "result": "bw",
+    "pgnLocation": "data/anatoly.morozov-alexey.matveev-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "XIubgcBW"
+    }
   }
 ]
