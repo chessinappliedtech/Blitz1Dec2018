@@ -84,6 +84,7 @@
     "blackId": "anatoly.morozov",
     "date": "18-12-2018",
     "pgn": "data/alexey.matveev-anatoly.morozov-1.pgn",
+    "lichessId": "JvOdT0Uh",
     "result": "ww"
   },
   {
@@ -91,6 +92,7 @@
     "blackId": "alexey.matveev",
     "date": "18-12-2018",
     "pgn": "data/anatoly.morozov-alexey.matveev-1.pgn",
+    "lichessId": "XIubgcBW",
     "result": "bw"
   }
 ]
