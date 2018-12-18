@@ -66,5 +66,17 @@
     "blackId": "vladimir.kudryakov",
     "date": "18-12-2018",
     "result": "ww"
+  },
+  {
+    "whiteId": "vladimir.kudryakov",
+    "blackId": "alexander.shkabara",
+    "date": "18-12-2018",
+    "result": "bw"
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "alexander.shkabara",
+    "date": "18-12-2018",
+    "result": "ww"
   }
 ]
