@@ -16,16 +16,20 @@
     "blackId": "ilya.maltsev",
     "date": "12-12-2018",
     "result": "bw",
-    "pgn": "data/alexander.shkabara-ilya.maltsev-1.pgn",
-    "lichessId": "YTEMXugi"
+    "pgnLocation": "data/alexander.shkabara-ilya.maltsev-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "YTEMXugi"
+    }
   },
   {
     "whiteId": "ilya.maltsev",
     "blackId": "alexander.shkabara",
     "date": "12-12-2018",
     "result": "ww",
-    "pgn": "data/ilya.maltsev-alexander.shkabara-2.pgn",
-    "lichessId": "0SmhL1eu"
+    "pgnLocation": "data/ilya.maltsev-alexander.shkabara-2.pgn",
+    "outerServiceLinks": {
+      "lichess": "0SmhL1eu"
+    }
   },
   {
     "whiteId": "alexey.matveev",
@@ -44,15 +48,19 @@
     "blackId": "alexey.matveev",
     "date": "18-12-2018",
     "result": "bw",
-    "pgn": "data/alexey.shklyar-alexey.matveev-1.pgn",
-    "lichessId": "96b5rrBL"
+    "pgnLocation": "data/alexey.shklyar-alexey.matveev-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "96b5rrBL"
+    }
   },
   {
     "whiteId": "alexey.matveev",
     "blackId": "alexey.shklyar",
     "date": "18-12-2018",
     "result": "ww",
-    "pgn": "data/alexey.matveev-alexey.shklyar-2.pgn",
-    "lichessId": "9CsUFNJR"
+    "pgnLocation": "data/alexey.matveev-alexey.shklyar-2.pgn",
+    "outerServiceLinks": {
+      "lichess": "9CsUFNJR"
+    }
   }
 ]
