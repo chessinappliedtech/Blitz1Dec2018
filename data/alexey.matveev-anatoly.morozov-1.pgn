@@ -1,19 +1,12 @@
 [Event "Блиц 1. Декабрь 2018"]
-[Site "https://lichess.org/JvOdT0Uh"]
+[Site "https://lichess.org/aw5vZvDF"]
 [Date "18.12.2018, 16:33:13"]
-[Round "-"]
 [White "Алексей Матвеев"]
 [Black "Анатолий Морозов"]
 [Result "1-0"]
-[WhiteElo "?"]
-[BlackElo "?"]
 [Variant "Standard"]
-[TimeControl "-"]
-[ECO "B18"]
-[Opening "Caro-Kann Defense: Classical Variation"]
 [Termination "Unknown"]
-[Annotator "lichess.org"]
 [PlyCount "61"]
 [FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O O-O 6. Re1 d6 7. Be3 Bb4 8. c3 Ba5 9. h3 Bd7 10. Nbd2 Ne7 11. d4 b5 12. Bb3 exd4 13. Nxd4 Ng6 14. Qe2 b4 15. c4 c5 16. Nb5 Bc8 17. e5 Nxe5 18. Nf3 Re8 19. Nxe5 dxe5 20. Rad1 Qe7 21. Nd6 Rd8 22. Nxc8 Raxc8 23. Rxd8+ Rxd8 24. Bg5 Qe6 25. Bxf6 Qxf6 26. Qxe5 Qxe5 27. Rxe5 h6 28. Rxc5 Bb6 29. Rd5 Re8 30. c5 Bc7 31. g3 * { White wins. } 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O O-O 6. Re1 d6 7. Be3 Bb4 8. c3 Ba5 9. h3 Bd7 10. Nbd2 Ne7 11. d4 b5 12. Bb3 exd4 13. Nxd4 Ng6 14. Qe2 b4 15. c4 c5 16. Nb5 Bc8 17. e5 Nxe5 18. Nf3 Re8 19. Nxe5 dxe5 20. Rad1 Qe7 21. Nd6 Rd8 22. Nxc8 Raxc8 23. Rxd8+ Rxd8 24. Bg5 Qe6 25. Bxf6 Qxf6 26. Qxe5 Qxe5 27. Rxe5 h6 28. Rxc5 Bb6 29. Rd5 Re8 30. c5 Bc7 31. g3 *
