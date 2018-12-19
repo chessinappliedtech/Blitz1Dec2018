@@ -106,5 +106,25 @@
     "outerServiceLinks": {
       "lichess": "XIubgcBW"
     }
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexey.biryukov",
+    "date": "19-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/anatoly.morozov-alexey.biryukov-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "mLO8LUW0"
+    }
+  },
+  {
+    "whiteId": "alexey.biryukov",
+    "blackId": "anatoly.morozov",
+    "date": "19-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/alexey.biryukov-anatoly.morozov-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "jfvv4uZH"
+    }
   }
 ]
