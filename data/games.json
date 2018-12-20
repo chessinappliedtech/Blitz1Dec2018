@@ -194,5 +194,25 @@
     "blackId": "alexey.matveev",
     "date": "20-12-2018",
     "result": "bw"
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "ilya.maltsev",
+    "date": "20-12-2018",
+    "result": "bw",
+    "pgnLocation": "data/anatoly.morozov-ilya.maltsev-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "4U82203J"
+    }
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "anatoly.morozov",
+    "date": "20-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/ilya.maltsev-anatoly.morozov-2.pgn",
+    "outerServiceLinks": {
+      "lichess": "yQPL7kKs"
+    }
   }
 ]

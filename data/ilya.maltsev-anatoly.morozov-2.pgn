@@ -1,0 +1,17 @@
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/yQPL7kKs"]
+[Date "20.12.2018, 17:11:20"]
+[Round "-"]
+[White "Илья Мальцев"]
+[Black "Анатолий Морозов"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 { C55 Italian Game: Two Knights Defense, Modern Bishop's Opening } Bb4+ 5. c3 Ba5 6. Bg5 h6 7. Bh4 Nd4 8. Nxe5 Nc6 9. Bxf7+ Kf8 10. Nxc6 dxc6 11. Bg6 Qe7 12. O-O Qe6 13. e5 Ng4 14. Bh5 Qxe5 15. Bxg4 Bxg4 16. Qxg4 Re8 17. Nd2 c5 18. Nf3 Qd6 19. Qf5+ Kg8 20. Rae1 Rxe1 21. Rxe1 g6 22. Qf6 Kh7 23. Re7+ Kg8 24. Qf7# { White wins by checkmate. } 1-0

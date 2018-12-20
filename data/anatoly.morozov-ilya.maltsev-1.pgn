@@ -1,0 +1,17 @@
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/4U82203J"]
+[Date "20.12.2018, 16:58:55"]
+[Round "-"]
+[White "Анатолий Морозов"]
+[Black "Илья Мальцев"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 { C48 Four Knights Game: Spanish Variation } d6 5. O-O Bd7 6. d3 a6 7. Ba4 b5 8. Bb3 Na5 9. Bd5 Nxd5 10. exd5 c5 11. dxc6 Bxc6 12. Re1 Be7 13. g3 O-O 14. h4 f5 15. Bg5 Bxf3 16. Qxf3 Bxg5 17. hxg5 Qxg5 18. Kg2 Rac8 19. Rh1 Nc6 20. Nd5 Nd4 21. Qh5 Qxh5 22. Rxh5 Rxc2 23. Ne7+ Kf7 24. Nxf5 Nxf5 25. Rxf5+ Ke7 26. Rxf8 Kxf8 27. Rb1 Rd2 28. Kf1 Rxd3 29. Ke2 e4 30. Rc1 Rd4 31. Ke3 Rb4 32. b3 Kf7 33. Rc6 d5 34. Rxa6 g6 35. Rc6 Ke7 36. Rc3 Ke6 37. a3 d4+ 38. Kxe4 dxc3+ 39. axb4 c2 { Black wins. } 0-1
