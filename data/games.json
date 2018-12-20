@@ -234,5 +234,17 @@
     "outerServiceLinks": {
       "lichess": "nfLmJkC5"
     }
+  },
+  {
+    "whiteId": "vladimir.kudryakov",
+    "blackId": "alexey.matveev",
+    "date": "20-12-2018",
+    "result": "bw"
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "vladimir.kudryakov",
+    "date": "20-12-2018",
+    "result": "ww"
   }
 ]
