@@ -214,5 +214,25 @@
     "outerServiceLinks": {
       "lichess": "yQPL7kKs"
     }
+  },
+  {
+    "whiteId": "vladimir.kudryakov",
+    "blackId": "anatoly.morozov",
+    "date": "20-12-2018",
+    "result": "bw",
+    "pgnLocation": "data/vladimir.kudryakov-anatoly.morozov-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "dmRDJ2vI"
+    }
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "vladimir.kudryakov",
+    "date": "20-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/anatoly.morozov-vladimir.kudryakov-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "nfLmJkC5"
+    }
   }
 ]
