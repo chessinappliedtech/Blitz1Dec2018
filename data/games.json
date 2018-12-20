@@ -166,5 +166,22 @@
     "outerServiceLinks": {
       "lichess": "tG7aNyj6"
     }
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "alexey.biryukov",
+    "date": "20-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/alexander.shkabara-alexey.biryukov-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "f7kRNX47"
+    }
+  }
+  ,
+  {
+    "whiteId": "alexey.biryukov",
+    "blackId": "alexander.shkabara",
+    "date": "20-12-2018",
+    "result": "ww"
   }
 ]
