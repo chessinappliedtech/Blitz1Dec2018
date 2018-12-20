@@ -1,0 +1,17 @@
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/tG7aNyj6"]
+[Date "20.12.2018, 15:05:24"]
+[Round "-"]
+[White "Алексей Шимешов"]
+[Black "Алексей Шкляр"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A00"]
+[Opening "Van Geet Opening: Reversed Nimzowitsch"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. Nc3 e5 { A00 Van Geet Opening: Reversed Nimzowitsch } 2. d3 d5 3. e4 Nf6 4. exd5 Nxd5 5. Nxd5 Qxd5 6. c4 Qa5+ 7. Qd2 Qxd2+ 8. Bxd2 Bc5 9. b4 Bd4 10. Rc1 O-O 11. Nf3 Nc6 12. b5 Ne7 13. Nxd4 exd4 14. Be2 Nf5 15. O-O Re8 16. Bg4 Re2 17. Bxe2 Bd7 18. Rfe1 Re8 19. Bg4 Rxe1+ 20. Rxe1 h6 21. Bxf5 Bxf5 22. Re8+ Kh7 23. f3 Bxd3 24. g4 Bxc4 25. h4 Bxa2 26. h5 g5 27. Kg2 c5 28. bxc6 bxc6 29. f4 gxf4 30. Bxf4 d3 31. Be5 d2 32. Rh8# { White wins by checkmate. } 1-0

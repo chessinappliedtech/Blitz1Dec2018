@@ -126,5 +126,45 @@
     "outerServiceLinks": {
       "lichess": "jfvv4uZH"
     }
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "alexey.shklyar",
+    "date": "20-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/ilya.maltsev-alexey.shklyar-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "CUqTzQ3r"
+    }
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "ilya.maltsev",
+    "date": "20-12-2018",
+    "result": "bw",
+    "pgnLocation": "data/alexey.shklyar-ilya.maltsev-2.pgn",
+    "outerServiceLinks": {
+      "lichess": "6AwTOAIw"
+    }
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "alexey.shimeshov",
+    "date": "20-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/alexey.shklyar-alexey.shimeshov-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "heFRpkvL"
+    }
+  },
+  {
+    "whiteId": "alexey.shimeshov",
+    "blackId": "alexey.shklyar",
+    "date": "20-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/alexey.shimeshov-alexey.shklyar-2.pgn",
+    "outerServiceLinks": {
+      "lichess": "tG7aNyj6"
+    }
   }
 ]

@@ -1,0 +1,17 @@
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/CUqTzQ3r"]
+[Date "20.12.2018, 14:33:50"]
+[Round "-"]
+[White "Илья Мальцев"]
+[Black "Алексей Шкляр"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B18"]
+[Opening "Caro-Kann Defense: Classical Variation"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 { B18 Caro-Kann Defense: Classical Variation } 5. Ng3 Bg6 6. Nf3 e6 7. Bc4 Bb4+ 8. c3 Ba5 9. Bf4 Ne7 10. O-O O-O 11. Ne5 Nd5 12. Bd2 Qc7 13. f4 Nd7 14. Nxg6 fxg6 15. Qg4 Rf6 16. Ne4 Rf5 17. Rae1 Raf8 18. g3 e5 { White wins. } 1-0

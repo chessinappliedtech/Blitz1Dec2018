@@ -1,0 +1,17 @@
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/heFRpkvL"]
+[Date "12/20/2018, 2:55:01 PM"]
+[Round "-"]
+[White "Алексей Шкляр"]
+[Black "Алексей Шимешов"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A10"]
+[Opening "English Opening"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. c4 { A10 English Opening } f6 2. d4 Nh6 3. e4 e6 4. Nc3 Be7 5. Qh5+ Nf7 6. Bd3 e5 7. Nf3 c5 8. dxe5 fxe5 9. Nxe5 O-O 10. Nxf7 Rxf7 11. e5 d6 12. Qxh7+ Kf8 13. Qh8# { White wins by checkmate. } 1-0
