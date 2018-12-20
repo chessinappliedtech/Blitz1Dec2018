@@ -176,12 +176,23 @@
     "outerServiceLinks": {
       "lichess": "f7kRNX47"
     }
-  }
-  ,
+  },
   {
     "whiteId": "alexey.biryukov",
     "blackId": "alexander.shkabara",
     "date": "20-12-2018",
     "result": "ww"
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "alexey.shimeshov",
+    "date": "20-12-2018",
+    "result": "ww"
+  },
+  {
+    "whiteId": "alexey.shimeshov",
+    "blackId": "alexey.matveev",
+    "date": "20-12-2018",
+    "result": "bw"
   }
 ]
