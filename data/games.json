@@ -346,5 +346,17 @@
     "outerServiceLinks": {
       "lichess": "IWjDAsKL"
     }
+  },
+  {
+    "whiteId": "alexey.shimeshov",
+    "blackId": "alexey.biryukov",
+    "date": "21-12-2018",
+    "result": "bw"
+  },
+  {
+    "whiteId": "alexey.biryukov",
+    "blackId": "alexey.shimeshov",
+    "date": "21-12-2018",
+    "result": "ww"
   }
 ]
