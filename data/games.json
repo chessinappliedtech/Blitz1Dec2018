@@ -266,5 +266,15 @@
     "outerServiceLinks": {
       "lichess": "Ei9D1C0W"
     }
+  },
+  {
+    "whiteId": "alexey.biryukov",
+    "blackId": "alexey.shklyar",
+    "date": "21-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/alexey.biryukov-alexey.shklyar-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "wzBy33wD"
+    }
   }
 ]
