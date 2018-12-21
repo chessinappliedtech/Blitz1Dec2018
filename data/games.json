@@ -277,7 +277,7 @@
       "lichess": "wzBy33wD"
     }
   },
-    {
+  {
     "whiteId": "alexey.shklyar",
     "blackId": "alexey.biryukov",
     "date": "21-12-2018",
@@ -285,6 +285,16 @@
     "pgnLocation": "data/alexey.shklyar-alexey.biryukov-2.pgn",
     "outerServiceLinks": {
       "lichess": "KKqs6ccw"
+    }
+  },
+  {
+    "whiteId": "alexey.shimeshov",
+    "blackId": "anatoly.morozov",
+    "date": "21-12-2018",
+    "result": "bw",
+    "pgnLocation": "data/alexey.shimeshov-anatoly.morozov-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "UPytAzGv"
     }
   }
 ]
