@@ -332,9 +332,19 @@
     "blackId": "vladimir.kudryakov",
     "date": "21-12-2018",
     "result": "ww",
-    "pgnLocation": "data/alexey.shklyar-vladimir.kudryakov-2.pgn",
+    "pgnLocation": "data/alexey.shklyar-vladimir.kudryakov-1.pgn",
     "outerServiceLinks": {
       "lichess": "tQHJrJQj"
+    }
+  },
+  {
+    "whiteId": "vladimir.kudryakov",
+    "blackId": "alexey.shklyar",
+    "date": "21-12-2018",
+    "result": "bw",
+    "pgnLocation": "data/vladimir.kudryakov-alexey.shklyar-2.pgn",
+    "outerServiceLinks": {
+      "lichess": "IWjDAsKL"
     }
   }
 ]
