@@ -1,0 +1,17 @@
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/tQHJrJQj"]
+[Date "21.12.2018, 16:38:26"]
+[Round "-"]
+[White "Алексей Шкляр"]
+[Black "Владимир Кудряков"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A54"]
+[Opening "Old Indian Defense: Two Knights Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 { A54 Old Indian Defense: Two Knights Variation } e4 5. Ng5 Be7 6. Ngxe4 c5 7. dxc5 Bf5 8. cxd6 Bxd6 9. Nxd6+ Ke7 10. Nxf5+ Kf8 11. Qxd8+ Ne8 12. Nd6 g6 13. Qxe8+ Kg7 14. Qxf7# { White wins by checkmate. } 1-0

@@ -326,5 +326,15 @@
     "outerServiceLinks": {
       "lichess": "0czb0piC"
     }
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "vladimir.kudryakov",
+    "date": "21-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/alexey.shklyar-vladimir.kudryakov-2.pgn",
+    "outerServiceLinks": {
+      "lichess": "tQHJrJQj"
+    }
   }
 ]
