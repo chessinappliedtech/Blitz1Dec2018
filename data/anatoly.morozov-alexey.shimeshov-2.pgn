@@ -1,0 +1,17 @@
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/P6K4Dk7D"]
+[Date "21.12.2018, 15:20:43"]
+[Round "-"]
+[White "Анатолий Морозов"]
+[Black "Алексей Шимешов"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C40"]
+[Opening "King's Knight Opening"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 { C40 King's Knight Opening } b6 3. Nxe5 Bb7 4. Nc3 Qe7 5. Nf3 d5 6. Bb5+ c6 7. Ba4 dxe4 8. Nd4 e3 9. dxe3 b5 10. Bb3 Nd7 11. Qf3 Ne5 12. Qe4 Rd8 13. O-O c5 14. Nd5 Bxd5 15. Bxd5 cxd4 16. Qxd4 Nf6 17. f4 Neg4 { Black wins. } 0-1

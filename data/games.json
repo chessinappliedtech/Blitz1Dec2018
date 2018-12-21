@@ -296,5 +296,15 @@
     "outerServiceLinks": {
       "lichess": "UPytAzGv"
     }
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexey.shimeshov",
+    "date": "21-12-2018",
+    "result": "bw",
+    "pgnLocation": "data/anatoly.morozov-alexey.shimeshov-2.pgn",
+    "outerServiceLinks": {
+      "lichess": "P6K4Dk7D"
+    }
   }
 ]
