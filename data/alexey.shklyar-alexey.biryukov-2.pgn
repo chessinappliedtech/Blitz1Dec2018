@@ -1,0 +1,17 @@
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/KKqs6ccw"]
+[Date "21.12.2018, 12:37:18"]
+[Round "-"]
+[White "Алексей Шкляр"]
+[Black "Алексей Бирюков"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. c4 e5 2. Nc3 { A21 English Opening: King's English Variation, Reversed Sicilian } Bc5 3. d4 exd4 4. Ne4 d6 5. e3 Bf5 6. Nxc5 dxc5 7. Bd3 Ne7 8. Nf3 f6 9. O-O O-O 10. a3 Nbc6 11. Bd2 dxe3 12. Bxe3 Bxd3 13. Bxc5 Bxf1 14. Qxd8 Raxd8 15. Bxe7 Nxe7 16. Rxf1 c5 17. b4 cxb4 18. axb4 Nf5 19. c5 b6 20. c6 Rc8 21. b5 Rfd8 22. g4 Nd4 23. Nxd4 Rxd4 24. f3 Rb4 25. Re1 { Black wins. } 0-1
