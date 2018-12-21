@@ -1,0 +1,17 @@
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/nLfcgoOe"]
+[Date "12/21/2018, 4:20:31 PM"]
+[Round "-"]
+[White "Владимир Кудряков"]
+[Black "Алексей Бирюков"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C44"]
+[Opening "King's Knight Opening: Normal Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 { C44 King's Knight Opening: Normal Variation } 3. d3 Nf6 4. Nc3 d6 5. Be3 Be6 6. b3 d5 7. g3 Bb4 8. Qd2 d4 9. Qe2 Bxc3+ 10. Kd1 Bxa1 11. Bh3 Bc3 12. Bxe6 fxe6 13. h4 Qd6 14. Kc1 Qa3+ 15. Kb1 Qb2# { Black wins by checkmate. } 0-1

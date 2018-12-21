@@ -306,5 +306,25 @@
     "outerServiceLinks": {
       "lichess": "P6K4Dk7D"
     }
+  },
+  {
+    "whiteId": "vladimir.kudryakov",
+    "blackId": "alexey.biryukov",
+    "date": "21-12-2018",
+    "result": "bw",
+    "pgnLocation": "data/vladimir.kudryakov-alexey.biryukov-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "nLfcgoOe"
+    }
+  },
+  {
+    "whiteId": "alexey.biryukov",
+    "blackId": "vladimir.kudryakov",
+    "date": "21-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/alexey.biryukov-vladimir.kudryakov-2.pgn",
+    "outerServiceLinks": {
+      "lichess": "0czb0piC"
+    }
   }
 ]
