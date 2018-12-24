@@ -1,1 +1,17 @@
-[]
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/f7kRNX47"]
+[Date "12/20/2018, 2:12:20 PM"]
+[Round "-"]
+[White "Александр Шкабара"]
+[Black "Алексей Бирюков"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. c4 e5 2. Nc3 { A21 English Opening: King's English Variation, Reversed Sicilian } c6 3. Nf3 d6 4. e3 Be6 5. d4 Nd7 6. d5 cxd5 7. cxd5 Bg4 8. Bb5 a6 9. Bxd7+ Qxd7 10. O-O Nf6 11. e4 Be7 12. Qd3 b5 13. Bg5 h6 14. Bxf6 Bxf6 15. Rac1 Bg5 16. Nxg5 hxg5 17. f3 Bh5 18. Qd2 g4 19. f4 g3 20. h3 f6 21. fxe5 dxe5 22. Ne2 Bxe2 23. Qxe2 Kf7 24. Qf3 Qa7+ 25. Kh1 Qd4 26. Rc7+ Kg8 27. Qxg3 Qxe4 28. Qxg7# { White wins by checkmate. } 1-0
