@@ -1,0 +1,17 @@
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/IWjDAsKL"]
+[Date "21.12.2018, 16:51:47"]
+[Round "-"]
+[White "Владимир Кудряков"]
+[Black "Алексей Шкляр"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maroczy Variation"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 c6 2. f3 d5 3. d4 { B12 Caro-Kann Defense: Maroczy Variation } Nf6 4. Bd3 b6 5. Ne2 Ba6 6. Nbc3 Bxd3 7. cxd3 e6 8. Bg5 h6 9. Bh4 c5 10. e5 cxd4 11. Nxd4 Bc5 12. Ndb5 g5 13. Bg3 Nh5 14. h4 Nd7 15. Qd2 Nxe5 16. O-O-O Nxg3 17. Rh3 gxh4 18. Rxh4 Qxh4 19. f4 d4 20. fxe5 dxc3 21. Nd6+ Ke7 22. Nxf7 Kxf7 23. Qg5 { Black wins. } 0-1

@@ -1,0 +1,17 @@
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/sREn2lzb"]
+[Date "24.12.2018, 14:04:29"]
+[Round "-"]
+[White "Анатолий Морозов"]
+[Black "Александр Шкабара"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 c5 2. Nf3 Nc6 { B30 Sicilian Defense: Old Sicilian } 3. Nc3 e5 4. Bc4 Nf6 5. O-O d6 6. Bb5 Bd7 7. d3 Be7 8. Bg5 O-O 9. Nd5 Nxd5 10. Bxe7 Ndxe7 11. Re1 Bg4 12. h3 Bxf3 13. Qxf3 Nd4 14. Qg4 Nxc2 { Black wins. } 0-1

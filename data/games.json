@@ -308,6 +308,46 @@
     }
   },
   {
+    "whiteId": "vladimir.kudryakov",
+    "blackId": "alexey.biryukov",
+    "date": "21-12-2018",
+    "result": "bw",
+    "pgnLocation": "data/vladimir.kudryakov-alexey.biryukov-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "nLfcgoOe"
+    }
+  },
+  {
+    "whiteId": "alexey.biryukov",
+    "blackId": "vladimir.kudryakov",
+    "date": "21-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/alexey.biryukov-vladimir.kudryakov-2.pgn",
+    "outerServiceLinks": {
+      "lichess": "0czb0piC"
+    }
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "vladimir.kudryakov",
+    "date": "21-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/alexey.shklyar-vladimir.kudryakov-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "tQHJrJQj"
+    }
+  },
+  {
+    "whiteId": "vladimir.kudryakov",
+    "blackId": "alexey.shklyar",
+    "date": "21-12-2018",
+    "result": "bw",
+    "pgnLocation": "data/vladimir.kudryakov-alexey.shklyar-2.pgn",
+    "outerServiceLinks": {
+      "lichess": "IWjDAsKL"
+    }
+  },
+  {
     "whiteId": "alexey.shimeshov",
     "blackId": "alexey.biryukov",
     "date": "21-12-2018",
@@ -318,6 +358,37 @@
     "blackId": "alexey.shimeshov",
     "date": "21-12-2018",
     "result": "ww"
+  },
+  {
+<<<<<<< HEAD
+    "whiteId": "alexander.shkabara",
+    "blackId": "alexey.shimeshov",
+    "date": "24-12-2018",
+    "result": "ww",
+    "pgnLocation": "alexander.shkabara-alexey.shimeshov-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "FUtYDnjU"
+    }
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexander.shkabara",
+    "date": "24-12-2018",
+    "result": "bw",
+    "pgnLocation": "data/anatoly.morozov-alexander.shkabara-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "sREn2lzb"
+    }
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "anatoly.morozov",
+    "date": "24-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/alexander.shkabara-anatoly.morozov-2.pgn",
+    "outerServiceLinks": {
+      "lichess": "9dlnhpFq"
+    }
   },
   {
     "whiteId": "alexander.shkabara",
