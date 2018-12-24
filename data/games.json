@@ -358,5 +358,15 @@
     "blackId": "alexey.shimeshov",
     "date": "21-12-2018",
     "result": "ww"
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexander.shkabara",
+    "date": "24-12-2018",
+    "result": "bw",
+    "pgnLocation": "data/anatoly.morozov-alexander.shkabara-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "sREn2lzb"
+    }
   }
 ]
