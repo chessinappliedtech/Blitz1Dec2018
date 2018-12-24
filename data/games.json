@@ -318,5 +318,21 @@
     "blackId": "alexey.shimeshov",
     "date": "21-12-2018",
     "result": "ww"
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "alexey.shimeshov",
+    "date": "24-12-2018",
+    "result": "ww",
+    "pgnLocation": "alexander.shkabara-alexey.shimeshov-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "FUtYDnjU"
+    }
+  },
+  {
+    "whiteId": "alexey.shimeshov",
+    "blackId": "alexander.shkabara",
+    "date": "20-12-2018",
+    "result": "bw"
   }
 ]
