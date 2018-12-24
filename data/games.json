@@ -368,5 +368,15 @@
     "outerServiceLinks": {
       "lichess": "sREn2lzb"
     }
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "anatoly.morozov",
+    "date": "24-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/alexander.shkabara-anatoly.morozov-2.pgn",
+    "outerServiceLinks": {
+      "lichess": "9dlnhpFq"
+    }
   }
 ]

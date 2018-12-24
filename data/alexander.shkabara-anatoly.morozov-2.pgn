@@ -1,0 +1,17 @@
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/9dlnhpFq"]
+[Date "24.12.2018, 14:13:51"]
+[Round "-"]
+[White "Александр Шкабара"]
+[Black "Анатолий Морозов"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A28"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Quiet Line"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. e3 { A28 English Opening: King's English Variation, Four Knights Variation, Quiet Line } Bb4 5. d4 Bxc3+ 6. bxc3 d6 7. d5 Ne7 8. Ba3 Bg4 9. Be2 O-O 10. O-O c6 11. dxc6 Nxc6 12. Bxd6 Qa5 13. Qd2 Ne4 14. Qc2 Nxd6 15. Rfd1 Rad8 16. Ng5 Bf5 17. Bd3 Bxd3 18. Qxd3 Nb5 19. Qxh7# { White wins by checkmate. } 1-0
