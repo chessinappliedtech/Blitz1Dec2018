@@ -406,5 +406,25 @@
     "blackId": "alexey.shimeshov",
     "date": "25-12-2018",
     "result": "ww"
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "alexander.shkabara",
+    "date": "25-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/alexey.matveev-alexander.shkabara-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "axwsGqAe"
+    }
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "alexey.matveev",
+    "date": "25-12-2018",
+    "result": "bw",
+    "pgnLocation": "alexey.matveev-alexander.shkabara-2.pgn",
+    "outerServiceLinks": {
+      "lichess": "ksWruL64"
+    }
   }
 ]
