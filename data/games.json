@@ -394,5 +394,17 @@
     "blackId": "alexander.shkabara",
     "date": "20-12-2018",
     "result": "bw"
+  },
+  {
+    "whiteId": "alexey.shimeshov",
+    "blackId": "ilya.maltsev",
+    "date": "25-12-2018",
+    "result": "bw"
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "alexey.shimeshov",
+    "date": "25-12-2018",
+    "result": "ww"
   }
 ]
