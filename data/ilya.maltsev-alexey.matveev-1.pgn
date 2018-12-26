@@ -1,1 +1,12 @@
-[]
+[Event "Блиц 1. Декабрь 2018"]
+[Site "https://lichess.org/R5J8nyVK"]
+[Date "26.12.2018, 14:30:34"]
+[White "Илья Мальцев"]
+[Black "Алексей Матвеев"]
+[Result "1-0"]
+[PlyCount "92"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[Variant "Standard"]
+[Termination "?"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bd2 Qb6 6. Nge2 Bg4 7. f3 Bh5 8. Na4 Qc6 9. Nec3 a6 10. Bd3 Nbd7 11. b3 e5 12. dxe5 Nxe5 13. Qe2 Qe6 14. Ne4 Bd6 15. O-O O-O 16. Nac5 Bxc5+ 17. Nxc5 Qe8 18. Nxb7 Nxd3 19. Qxd3 Qc6 20. Na5 Qc5+ 21. Kh1 Rfd8 22. Qc3 Rd5 23. Qxc5 Rxc5 24. c4 g5 25. Nb7 Rf5 26. g4 Nxg4 27. fxg4 Rxf1+ 28. Rxf1 Bxg4 29. Bxg5 Re8 30. Nc5 Re5 31. Nxa6 Rxg5 32. Nxc7 Be6 33. Nxe6 fxe6 34. b4 e5 35. c5 e4 36. Re1 Re5 37. Kg2 Kf7 38. Kg3 Ke6 39. a4 Kd5 40. a5 Kc4 41. Rb1 e3 42. Kf3 e2 43. Kf2 Kd3 44. Ke1 Rf5 45. Rb3+ Kc2 46. Re3 Rf1+ *
