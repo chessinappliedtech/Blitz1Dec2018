@@ -446,5 +446,29 @@
     "outerServiceLinks": {
       "lichess": "R5J8nyVK"
     }
+  },
+  {
+    "whiteId": "vladimir.kudryakov",
+    "blackId": "alexey.shimeshov",
+    "date": "",
+    "result": "forfeit"
+  },
+  {
+    "whiteId": "alexey.shimeshov",
+    "blackId": "vladimir.kudryakov",
+    "date": "",
+    "result": "forfeit"
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "alexander.shkabara",
+    "date": "",
+    "result": "forfeit"
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "alexey.shklyar",
+    "date": "",
+    "result": "forfeit"
   }
 ]
