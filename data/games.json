@@ -426,5 +426,25 @@
     "outerServiceLinks": {
       "lichess": "ksWruL64"
     }
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "ilya.maltsev",
+    "date": "26-12-2018",
+    "result": "ww",
+    "pgnLocation": "data/alexey.matveev-ilya.maltsev-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "xy1uMVRT"
+    }
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "alexey.matveev",
+    "date": "26-12-2018",
+    "result": "ww",
+    "pgnLocation": "ilya.maltsev-alexey.matveev-1.pgn",
+    "outerServiceLinks": {
+      "lichess": "R5J8nyVK"
+    }
   }
 ]
