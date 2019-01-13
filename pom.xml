@@ -44,7 +44,7 @@
                     <dependency>
                         <groupId>ru.appliedtech.chess</groupId>
                         <artifactId>round-robin-site-generator</artifactId>
-                        <version>0.1-SNAPSHOT</version>
+                        <version>0.2-SNAPSHOT</version>
                         <type>jar</type>
                     </dependency>
                 </dependencies>
