@@ -1,5 +1,16 @@
 {
   "tournamentTitle": "Блиц 1. Декабрь 2018",
+  "tournamentId": "blitz1.dec2018",
+  "players": [
+    "alexey.biryukov",
+    "vladimir.kudryakov",
+    "ilya.maltsev",
+    "alexey.matveev",
+    "anatoly.morozov",
+    "alexey.shimeshov",
+    "alexander.shkabara",
+    "alexey.shklyar"
+  ],
   "arbiter": "ilya.maltsev",
   "deputyArbiters": [
     "alexey.matveev",

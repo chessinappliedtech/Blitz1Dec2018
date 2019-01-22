@@ -6,7 +6,7 @@
 
     <groupId>ru.appliedtech.chess</groupId>
     <artifactId>blitz1-dec2018</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.2-SNAPSHOT</version>
 
     <build>
         <plugins>
@@ -34,9 +34,12 @@
                     <includePluginDependencies>true</includePluginDependencies>
                     <mainClass>ru.appliedtech.chess.roundrobinsitegenerator.RoundRobinSiteGenerator</mainClass>
                     <arguments>
+                        <argument>ru_RU</argument>
                         <argument>data/tournamentDescription.json</argument>
                         <argument>data/players.json</argument>
                         <argument>data/games.json</argument>
+                        <argument></argument>
+                        <argument></argument>
                         <argument>.</argument>
                     </arguments>
                 </configuration>
@@ -56,7 +59,7 @@
         <dependency>
             <groupId>ru.appliedtech.chess</groupId>
             <artifactId>round-robin-site-generator</artifactId>
-            <version>0.1-SNAPSHOT</version>
+            <version>0.2-SNAPSHOT</version>
         </dependency>
     </dependencies>
 

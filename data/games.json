@@ -2,18 +2,21 @@
   {
     "whiteId": "ilya.maltsev",
     "blackId": "alexey.biryukov",
+    "tournamentId": "blitz1.dec2018",
     "date": "12-12-2018",
     "result": "ww"
   },
   {
     "whiteId": "alexey.biryukov",
     "blackId": "ilya.maltsev",
+    "tournamentId": "blitz1.dec2018",
     "date": "12-12-2018",
     "result": "bw"
   },
   {
     "whiteId": "alexander.shkabara",
     "blackId": "ilya.maltsev",
+    "tournamentId": "blitz1.dec2018",
     "date": "12-12-2018",
     "result": "bw",
     "pgnLocation": "data/alexander.shkabara-ilya.maltsev-1.pgn",
@@ -24,6 +27,7 @@
   {
     "whiteId": "ilya.maltsev",
     "blackId": "alexander.shkabara",
+    "tournamentId": "blitz1.dec2018",
     "date": "12-12-2018",
     "result": "ww",
     "pgnLocation": "data/ilya.maltsev-alexander.shkabara-2.pgn",
@@ -34,18 +38,21 @@
   {
     "whiteId": "alexey.matveev",
     "blackId": "alexey.biryukov",
+    "tournamentId": "blitz1.dec2018",
     "date": "13-12-2018",
     "result": "bw"
   },
   {
     "whiteId": "alexey.biryukov",
     "blackId": "alexey.matveev",
+    "tournamentId": "blitz1.dec2018",
     "date": "13-12-2018",
     "result": "bw"
   },
   {
     "whiteId": "alexey.shklyar",
     "blackId": "alexey.matveev",
+    "tournamentId": "blitz1.dec2018",
     "date": "18-12-2018",
     "result": "bw",
     "pgnLocation": "data/alexey.shklyar-alexey.matveev-1.pgn",
@@ -56,6 +63,7 @@
   {
     "whiteId": "alexey.matveev",
     "blackId": "alexey.shklyar",
+    "tournamentId": "blitz1.dec2018",
     "date": "18-12-2018",
     "result": "ww",
     "pgnLocation": "data/alexey.matveev-alexey.shklyar-2.pgn",
@@ -66,30 +74,35 @@
   {
     "whiteId": "vladimir.kudryakov",
     "blackId": "ilya.maltsev",
+    "tournamentId": "blitz1.dec2018",
     "date": "18-12-2018",
     "result": "bw"
   },
   {
     "whiteId": "ilya.maltsev",
     "blackId": "vladimir.kudryakov",
+    "tournamentId": "blitz1.dec2018",
     "date": "18-12-2018",
     "result": "ww"
   },
   {
     "whiteId": "vladimir.kudryakov",
     "blackId": "alexander.shkabara",
+    "tournamentId": "blitz1.dec2018",
     "date": "18-12-2018",
     "result": "bw"
   },
   {
     "whiteId": "alexander.shkabara",
     "blackId": "vladimir.kudryakov",
+    "tournamentId": "blitz1.dec2018",
     "date": "18-12-2018",
     "result": "ww"
   },
   {
     "whiteId": "alexey.matveev",
     "blackId": "anatoly.morozov",
+    "tournamentId": "blitz1.dec2018",
     "date": "18-12-2018",
     "result": "ww",
     "pgnLocation": "data/alexey.matveev-anatoly.morozov-1.pgn",
@@ -100,6 +113,7 @@
   {
     "whiteId": "anatoly.morozov",
     "blackId": "alexey.matveev",
+    "tournamentId": "blitz1.dec2018",
     "date": "18-12-2018",
     "result": "bw",
     "pgnLocation": "data/anatoly.morozov-alexey.matveev-1.pgn",
@@ -110,6 +124,7 @@
   {
     "whiteId": "anatoly.morozov",
     "blackId": "alexey.biryukov",
+    "tournamentId": "blitz1.dec2018",
     "date": "19-12-2018",
     "result": "ww",
     "pgnLocation": "data/anatoly.morozov-alexey.biryukov-1.pgn",
@@ -120,6 +135,7 @@
   {
     "whiteId": "alexey.biryukov",
     "blackId": "anatoly.morozov",
+    "tournamentId": "blitz1.dec2018",
     "date": "19-12-2018",
     "result": "ww",
     "pgnLocation": "data/alexey.biryukov-anatoly.morozov-1.pgn",
@@ -130,6 +146,7 @@
   {
     "whiteId": "ilya.maltsev",
     "blackId": "alexey.shklyar",
+    "tournamentId": "blitz1.dec2018",
     "date": "20-12-2018",
     "result": "ww",
     "pgnLocation": "data/ilya.maltsev-alexey.shklyar-1.pgn",
@@ -140,6 +157,7 @@
   {
     "whiteId": "alexey.shklyar",
     "blackId": "ilya.maltsev",
+    "tournamentId": "blitz1.dec2018",
     "date": "20-12-2018",
     "result": "bw",
     "pgnLocation": "data/alexey.shklyar-ilya.maltsev-2.pgn",
@@ -150,6 +168,7 @@
   {
     "whiteId": "alexey.shklyar",
     "blackId": "alexey.shimeshov",
+    "tournamentId": "blitz1.dec2018",
     "date": "20-12-2018",
     "result": "ww",
     "pgnLocation": "data/alexey.shklyar-alexey.shimeshov-1.pgn",
@@ -160,6 +179,7 @@
   {
     "whiteId": "alexey.shimeshov",
     "blackId": "alexey.shklyar",
+    "tournamentId": "blitz1.dec2018",
     "date": "20-12-2018",
     "result": "ww",
     "pgnLocation": "data/alexey.shimeshov-alexey.shklyar-2.pgn",
@@ -170,6 +190,7 @@
   {
     "whiteId": "alexander.shkabara",
     "blackId": "alexey.biryukov",
+    "tournamentId": "blitz1.dec2018",
     "date": "20-12-2018",
     "result": "ww",
     "pgnLocation": "data/alexander.shkabara-alexey.biryukov-1.pgn",
@@ -180,24 +201,28 @@
   {
     "whiteId": "alexey.biryukov",
     "blackId": "alexander.shkabara",
+    "tournamentId": "blitz1.dec2018",
     "date": "20-12-2018",
     "result": "ww"
   },
   {
     "whiteId": "alexey.matveev",
     "blackId": "alexey.shimeshov",
+    "tournamentId": "blitz1.dec2018",
     "date": "20-12-2018",
     "result": "ww"
   },
   {
     "whiteId": "alexey.shimeshov",
     "blackId": "alexey.matveev",
+    "tournamentId": "blitz1.dec2018",
     "date": "20-12-2018",
     "result": "bw"
   },
   {
     "whiteId": "anatoly.morozov",
     "blackId": "ilya.maltsev",
+    "tournamentId": "blitz1.dec2018",
     "date": "20-12-2018",
     "result": "bw",
     "pgnLocation": "data/anatoly.morozov-ilya.maltsev-1.pgn",
@@ -208,6 +233,7 @@
   {
     "whiteId": "ilya.maltsev",
     "blackId": "anatoly.morozov",
+    "tournamentId": "blitz1.dec2018",
     "date": "20-12-2018",
     "result": "ww",
     "pgnLocation": "data/ilya.maltsev-anatoly.morozov-2.pgn",
@@ -218,6 +244,7 @@
   {
     "whiteId": "vladimir.kudryakov",
     "blackId": "anatoly.morozov",
+    "tournamentId": "blitz1.dec2018",
     "date": "20-12-2018",
     "result": "bw",
     "pgnLocation": "data/vladimir.kudryakov-anatoly.morozov-1.pgn",
@@ -228,6 +255,7 @@
   {
     "whiteId": "anatoly.morozov",
     "blackId": "vladimir.kudryakov",
+    "tournamentId": "blitz1.dec2018",
     "date": "20-12-2018",
     "result": "ww",
     "pgnLocation": "data/anatoly.morozov-vladimir.kudryakov-1.pgn",
@@ -238,18 +266,21 @@
   {
     "whiteId": "vladimir.kudryakov",
     "blackId": "alexey.matveev",
+    "tournamentId": "blitz1.dec2018",
     "date": "20-12-2018",
     "result": "bw"
   },
   {
     "whiteId": "alexey.matveev",
     "blackId": "vladimir.kudryakov",
+    "tournamentId": "blitz1.dec2018",
     "date": "20-12-2018",
     "result": "ww"
   },
   {
     "whiteId": "alexey.shklyar",
     "blackId": "anatoly.morozov",
+    "tournamentId": "blitz1.dec2018",
     "date": "21-12-2018",
     "result": "bw",
     "pgnLocation": "data/alexey.shklyar-anatoly.morozov-1.pgn",
@@ -260,6 +291,7 @@
   {
     "whiteId": "anatoly.morozov",
     "blackId": "alexey.shklyar",
+    "tournamentId": "blitz1.dec2018",
     "date": "21-12-2018",
     "result": "ww",
     "pgnLocation": "data/anatoly.morozov-alexey.shklyar-2.pgn",
@@ -270,6 +302,7 @@
   {
     "whiteId": "alexey.biryukov",
     "blackId": "alexey.shklyar",
+    "tournamentId": "blitz1.dec2018",
     "date": "21-12-2018",
     "result": "ww",
     "pgnLocation": "data/alexey.biryukov-alexey.shklyar-1.pgn",
@@ -280,6 +313,7 @@
   {
     "whiteId": "alexey.shklyar",
     "blackId": "alexey.biryukov",
+    "tournamentId": "blitz1.dec2018",
     "date": "21-12-2018",
     "result": "bw",
     "pgnLocation": "data/alexey.shklyar-alexey.biryukov-2.pgn",
@@ -290,6 +324,7 @@
   {
     "whiteId": "alexey.shimeshov",
     "blackId": "anatoly.morozov",
+    "tournamentId": "blitz1.dec2018",
     "date": "21-12-2018",
     "result": "bw",
     "pgnLocation": "data/alexey.shimeshov-anatoly.morozov-1.pgn",
@@ -300,6 +335,7 @@
   {
     "whiteId": "anatoly.morozov",
     "blackId": "alexey.shimeshov",
+    "tournamentId": "blitz1.dec2018",
     "date": "21-12-2018",
     "result": "bw",
     "pgnLocation": "data/anatoly.morozov-alexey.shimeshov-2.pgn",
@@ -310,6 +346,7 @@
   {
     "whiteId": "vladimir.kudryakov",
     "blackId": "alexey.biryukov",
+    "tournamentId": "blitz1.dec2018",
     "date": "21-12-2018",
     "result": "bw",
     "pgnLocation": "data/vladimir.kudryakov-alexey.biryukov-1.pgn",
@@ -320,6 +357,7 @@
   {
     "whiteId": "alexey.biryukov",
     "blackId": "vladimir.kudryakov",
+    "tournamentId": "blitz1.dec2018",
     "date": "21-12-2018",
     "result": "ww",
     "pgnLocation": "data/alexey.biryukov-vladimir.kudryakov-2.pgn",
@@ -330,6 +368,7 @@
   {
     "whiteId": "alexey.shklyar",
     "blackId": "vladimir.kudryakov",
+    "tournamentId": "blitz1.dec2018",
     "date": "21-12-2018",
     "result": "ww",
     "pgnLocation": "data/alexey.shklyar-vladimir.kudryakov-1.pgn",
@@ -340,6 +379,7 @@
   {
     "whiteId": "vladimir.kudryakov",
     "blackId": "alexey.shklyar",
+    "tournamentId": "blitz1.dec2018",
     "date": "21-12-2018",
     "result": "bw",
     "pgnLocation": "data/vladimir.kudryakov-alexey.shklyar-2.pgn",
@@ -350,18 +390,21 @@
   {
     "whiteId": "alexey.shimeshov",
     "blackId": "alexey.biryukov",
+    "tournamentId": "blitz1.dec2018",
     "date": "21-12-2018",
     "result": "bw"
   },
   {
     "whiteId": "alexey.biryukov",
     "blackId": "alexey.shimeshov",
+    "tournamentId": "blitz1.dec2018",
     "date": "21-12-2018",
     "result": "ww"
   },
   {
     "whiteId": "anatoly.morozov",
     "blackId": "alexander.shkabara",
+    "tournamentId": "blitz1.dec2018",
     "date": "24-12-2018",
     "result": "bw",
     "pgnLocation": "data/anatoly.morozov-alexander.shkabara-1.pgn",
@@ -372,6 +415,7 @@
   {
     "whiteId": "alexander.shkabara",
     "blackId": "anatoly.morozov",
+    "tournamentId": "blitz1.dec2018",
     "date": "24-12-2018",
     "result": "ww",
     "pgnLocation": "data/alexander.shkabara-anatoly.morozov-2.pgn",
@@ -382,6 +426,7 @@
   {
     "whiteId": "alexander.shkabara",
     "blackId": "alexey.shimeshov",
+    "tournamentId": "blitz1.dec2018",
     "date": "24-12-2018",
     "result": "ww",
     "pgnLocation": "alexander.shkabara-alexey.shimeshov-1.pgn",
@@ -392,24 +437,28 @@
   {
     "whiteId": "alexey.shimeshov",
     "blackId": "alexander.shkabara",
+    "tournamentId": "blitz1.dec2018",
     "date": "20-12-2018",
     "result": "bw"
   },
   {
     "whiteId": "alexey.shimeshov",
     "blackId": "ilya.maltsev",
+    "tournamentId": "blitz1.dec2018",
     "date": "25-12-2018",
     "result": "bw"
   },
   {
     "whiteId": "ilya.maltsev",
     "blackId": "alexey.shimeshov",
+    "tournamentId": "blitz1.dec2018",
     "date": "25-12-2018",
     "result": "ww"
   },
   {
     "whiteId": "alexey.matveev",
     "blackId": "alexander.shkabara",
+    "tournamentId": "blitz1.dec2018",
     "date": "25-12-2018",
     "result": "ww",
     "pgnLocation": "data/alexey.matveev-alexander.shkabara-1.pgn",
@@ -420,6 +469,7 @@
   {
     "whiteId": "alexander.shkabara",
     "blackId": "alexey.matveev",
+    "tournamentId": "blitz1.dec2018",
     "date": "25-12-2018",
     "result": "bw",
     "pgnLocation": "alexey.matveev-alexander.shkabara-2.pgn",
@@ -430,6 +480,7 @@
   {
     "whiteId": "alexey.matveev",
     "blackId": "ilya.maltsev",
+    "tournamentId": "blitz1.dec2018",
     "date": "26-12-2018",
     "result": "ww",
     "pgnLocation": "data/alexey.matveev-ilya.maltsev-1.pgn",
@@ -440,6 +491,7 @@
   {
     "whiteId": "ilya.maltsev",
     "blackId": "alexey.matveev",
+    "tournamentId": "blitz1.dec2018",
     "date": "26-12-2018",
     "result": "ww",
     "pgnLocation": "ilya.maltsev-alexey.matveev-1.pgn",
@@ -450,24 +502,28 @@
   {
     "whiteId": "vladimir.kudryakov",
     "blackId": "alexey.shimeshov",
+    "tournamentId": "blitz1.dec2018",
     "date": "",
     "result": "forfeit"
   },
   {
     "whiteId": "alexey.shimeshov",
     "blackId": "vladimir.kudryakov",
+    "tournamentId": "blitz1.dec2018",
     "date": "",
     "result": "forfeit"
   },
   {
     "whiteId": "alexey.shklyar",
     "blackId": "alexander.shkabara",
+    "tournamentId": "blitz1.dec2018",
     "date": "",
     "result": "forfeit"
   },
   {
     "whiteId": "alexander.shkabara",
     "blackId": "alexey.shklyar",
+    "tournamentId": "blitz1.dec2018",
     "date": "",
     "result": "forfeit"
   }
